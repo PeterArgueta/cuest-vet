@@ -1,6 +1,6 @@
-# Cuestionario Veterinaria
+# Cuestionario
 
-Proyecto web en React para estudiar veterinaria a través de un sistema de preguntas clasificadas por tema y tipo de conocimiento.
+Proyecto web en React para estudiar a través de un sistema de preguntas clasificadas por tema y tipo de conocimiento.
 
 ## Usuario
 
