@@ -1,0 +1,1010 @@
+{
+    "8a. GENERALIDADES Y CAVIDAD BUCAL": [
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Cuál es la función principal de las papilas filiformes?",
+            "opciones": [
+                "Percibir sabores dulces",
+                "Función mecánica sin corpúsculos gustativos",
+                "Lubricar la cavidad bucal",
+                "Secretar enzimas digestivas"
+            ],
+            "respuesta_correcta": "Función mecánica sin corpúsculos gustativos"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué tipo de secreción producen las glándulas parótidas?",
+            "opciones": [
+                "Mucosa",
+                "Mixta",
+                "Serosa",
+                "Hormonal"
+            ],
+            "respuesta_correcta": "Serosa"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Por qué las papilas circunvaladas tienen un surco alrededor?",
+            "opciones": [
+                "Para alojar glándulas salivales",
+                "Para facilitar el paso de alimentos",
+                "Para alojar corpúsculos gustativos y bañar con saliva",
+                "Para la fijación de la lengua"
+            ],
+            "respuesta_correcta": "Para alojar corpúsculos gustativos y bañar con saliva"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué tipo de epitelio cubre la mucosa masticatoria?",
+            "opciones": [
+                "Cilíndrico simple",
+                "Plano estratificado queratinizado",
+                "Transicional",
+                "Cúbico simple"
+            ],
+            "respuesta_correcta": "Plano estratificado queratinizado"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué células componen un corpúsculo gustativo?",
+            "opciones": [
+                "Sensoriales, de sostén y basales",
+                "Parietales, principales y mucosas",
+                "Caliciformes, de Paneth y enteroendocrinas",
+                "Melanocitos, Langerhans y Merkel"
+            ],
+            "respuesta_correcta": "Sensoriales, de sostén y basales"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Cuál es la función del anillo de Waldeyer?",
+            "opciones": [
+                "Iniciar la digestión química",
+                "Producción de saliva",
+                "Formar parte del sistema inmunitario oral",
+                "Detectar sabores amargos"
+            ],
+            "respuesta_correcta": "Formar parte del sistema inmunitario oral"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué tejido dentario es producido por los odontoblastos?",
+            "opciones": [
+                "Esmalte",
+                "Cemento",
+                "Dentina",
+                "Ligamento periodontal"
+            ],
+            "respuesta_correcta": "Dentina"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Cuál es la función principal de la saliva?",
+            "opciones": [
+                "Degradar proteínas",
+                "Estimular la secreción gástrica",
+                "Lubricar y facilitar la deglución",
+                "Aumentar la presión sanguínea"
+            ],
+            "respuesta_correcta": "Lubricar y facilitar la deglución"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué pasaría si un animal pierde la función de las glándulas salivales serosas?",
+            "opciones": [
+                "Tendría dificultad para digerir almidones",
+                "No podría formar bolos alimenticios",
+                "Tendría lengua seca, pero sin cambios en digestión",
+                "No se afectaría la masticación"
+            ],
+            "respuesta_correcta": "Tendría dificultad para digerir almidones"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructura une al diente con el hueso alveolar?",
+            "opciones": [
+                "Esmalte",
+                "Cemento",
+                "Ligamento periodontal",
+                "Dentina"
+            ],
+            "respuesta_correcta": "Ligamento periodontal"
+        }
+    ],
+    "8b. SISTEMA DIGESTIVO DE MONOGÁSTRICOS": [
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué animales se consideran monogástricos?",
+            "opciones": [
+                "Bovinos y ovinos",
+                "Porcinos, caninos y felinos",
+                "Rumiantes y equinos",
+                "Aves y reptiles"
+            ],
+            "respuesta_correcta": "Porcinos, caninos y felinos"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué porción del tubo digestivo presenta vellosidades intestinales?",
+            "opciones": [
+                "Estómago",
+                "Intestino delgado",
+                "Intestino grueso",
+                "Esófago"
+            ],
+            "respuesta_correcta": "Intestino delgado"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Por qué el intestino delgado tiene vellosidades y microvellosidades?",
+            "opciones": [
+                "Para secretar enzimas digestivas",
+                "Para aumentar el área de absorción",
+                "Para proteger de bacterias",
+                "Para filtrar líquidos"
+            ],
+            "respuesta_correcta": "Para aumentar el área de absorción"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué glándulas se ubican en el estómago fúndico?",
+            "opciones": [
+                "Cardiales",
+                "Fúndicas",
+                "Pilóricas",
+                "Brunner"
+            ],
+            "respuesta_correcta": "Fúndicas"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué célula secreta ácido clorhídrico en el estómago?",
+            "opciones": [
+                "Célula principal",
+                "Célula caliciforme",
+                "Célula parietal",
+                "Célula de Paneth"
+            ],
+            "respuesta_correcta": "Célula parietal"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función tiene el plexo de Auerbach?",
+            "opciones": [
+                "Controla secreción mucosa",
+                "Regula movimientos musculares del tubo digestivo",
+                "Conduce señales gustativas",
+                "Favorece absorción intestinal"
+            ],
+            "respuesta_correcta": "Regula movimientos musculares del tubo digestivo"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué porciones forman la capa muscular externa del tubo digestivo?",
+            "opciones": [
+                "Longitudinal interna y circular externa",
+                "Circular interna y longitudinal externa",
+                "Oblicua y transversal",
+                "Capa mucosa y serosa"
+            ],
+            "respuesta_correcta": "Circular interna y longitudinal externa"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué ocurre si se lesionan las células de Paneth?",
+            "opciones": [
+                "Disminuye la secreción de ácido",
+                "Aumenta la secreción hormonal",
+                "Disminuye la defensa antimicrobiana del intestino",
+                "Se pierde la motilidad gástrica"
+            ],
+            "respuesta_correcta": "Disminuye la defensa antimicrobiana del intestino"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué epitelio reviste el intestino grueso?",
+            "opciones": [
+                "Cilíndrico simple con microvellosidades",
+                "Plano estratificado queratinizado",
+                "Cúbico simple",
+                "Epitelio transicional"
+            ],
+            "respuesta_correcta": "Cilíndrico simple con microvellosidades"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Cuál es la función principal del intestino grueso?",
+            "opciones": [
+                "Síntesis de bilis",
+                "Reabsorción de agua y formación de heces",
+                "Producción de enzimas digestivas",
+                "Absorción de lípidos"
+            ],
+            "respuesta_correcta": "Reabsorción de agua y formación de heces"
+        }
+    ],
+    "8c. SISTEMA DIGESTIVO DE AVES": [
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructura almacena alimento temporalmente en aves?",
+            "opciones": [
+                "Molleja",
+                "Buche",
+                "Proventrículo",
+                "Raquis"
+            ],
+            "respuesta_correcta": "Buche"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué epitelio reviste la cloaca en aves?",
+            "opciones": [
+                "Plano estratificado queratinizado",
+                "Cilíndrico simple",
+                "Transicional",
+                "Epitelio variable según la zona"
+            ],
+            "respuesta_correcta": "Epitelio variable según la zona"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Cuál es la función del proventrículo?",
+            "opciones": [
+                "Triturar mecánicamente el alimento",
+                "Almacenar alimento para la digestión",
+                "Secreción de ácido clorhídrico y enzimas",
+                "Absorber nutrientes"
+            ],
+            "respuesta_correcta": "Secreción de ácido clorhídrico y enzimas"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué ocurre si se elimina la molleja de un ave?",
+            "opciones": [
+                "No se produce bilis",
+                "El alimento no se tritura adecuadamente",
+                "Disminuye la absorción de agua",
+                "Se afecta la producción de enzimas"
+            ],
+            "respuesta_correcta": "El alimento no se tritura adecuadamente"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructura secreta bilis en las aves?",
+            "opciones": [
+                "Proventrículo",
+                "Páncreas",
+                "Hígado",
+                "Glándulas cloacales"
+            ],
+            "respuesta_correcta": "Hígado"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué epitelio reviste la molleja?",
+            "opciones": [
+                "Cilíndrico con microvellosidades",
+                "Plano queratinizado",
+                "Cúbico simple",
+                "Transicional"
+            ],
+            "respuesta_correcta": "Plano queratinizado"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Por qué las aves tienen dos ciegos bien desarrollados?",
+            "opciones": [
+                "Para almacenar calcio",
+                "Para aumentar la motilidad",
+                "Para fermentar material vegetal",
+                "Para secreción de ácido"
+            ],
+            "respuesta_correcta": "Para fermentar material vegetal"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué parte del intestino delgado contiene el divertículo de Merkel?",
+            "opciones": [
+                "Yeyuno",
+                "Duodeno",
+                "Íleon",
+                "Proventrículo"
+            ],
+            "respuesta_correcta": "Íleon"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función cumple la cloaca?",
+            "opciones": [
+                "Secreta enzimas digestivas",
+                "Almacena alimento",
+                "Recibe residuos del sistema digestivo, urinario y reproductor",
+                "Realiza digestión química"
+            ],
+            "respuesta_correcta": "Recibe residuos del sistema digestivo, urinario y reproductor"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Cuáles son las tres regiones de la cloaca?",
+            "opciones": [
+                "Duodeno, yeyuno e íleon",
+                "Coprodeo, urodeo y proctodeo",
+                "Colon, recto y ano",
+                "Faringe, esófago y buche"
+            ],
+            "respuesta_correcta": "Coprodeo, urodeo y proctodeo"
+        }
+    ],
+    "8d. SISTEMA DIGESTIVO DE RUMIANTES": [
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Cuáles son los preestómagos del rumiante?",
+            "opciones": [
+                "Rumen, retículo y omaso",
+                "Retículo, abomaso y ciego",
+                "Rumen, ciego y colon",
+                "Duodeno, yeyuno y abomaso"
+            ],
+            "respuesta_correcta": "Rumen, retículo y omaso"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructura tiene pliegues en forma de panal?",
+            "opciones": [
+                "Rumen",
+                "Retículo",
+                "Omaso",
+                "Abomaso"
+            ],
+            "respuesta_correcta": "Retículo"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Por qué la saliva en rumiantes es esencial para el rumen?",
+            "opciones": [
+                "Porque contiene enzimas digestivas",
+                "Porque regula el pH ruminal con bicarbonato y fosfatos",
+                "Porque favorece la absorción de nutrientes",
+                "Porque lubrica la mucosa gástrica"
+            ],
+            "respuesta_correcta": "Porque regula el pH ruminal con bicarbonato y fosfatos"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué epitelio reviste al rumen?",
+            "opciones": [
+                "Cilíndrico simple",
+                "Plano estratificado queratinizado",
+                "Cúbico simple",
+                "Transicional"
+            ],
+            "respuesta_correcta": "Plano estratificado queratinizado"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función cumplen las papilas del rumen?",
+            "opciones": [
+                "Secretar ácido clorhídrico",
+                "Permitir la absorción de productos de fermentación",
+                "Proteger contra bacterias",
+                "Lubricar la superficie interna"
+            ],
+            "respuesta_correcta": "Permitir la absorción de productos de fermentación"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué tipo de músculo compone la pared del rumen?",
+            "opciones": [
+                "Liso",
+                "Estriado voluntario",
+                "Estriado cardíaco",
+                "Mixto"
+            ],
+            "respuesta_correcta": "Liso"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué pasaría si el omaso pierde su movilidad?",
+            "opciones": [
+                "No se forma el bolo alimenticio",
+                "El alimento no se tritura ni absorbe agua adecuadamente",
+                "No se secreta pepsina",
+                "Se inhibe la secreción de bilis"
+            ],
+            "respuesta_correcta": "El alimento no se tritura ni absorbe agua adecuadamente"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué región del estómago glandular corresponde al abomaso?",
+            "opciones": [
+                "Cardias",
+                "Fondo",
+                "Píloro",
+                "Todas las anteriores"
+            ],
+            "respuesta_correcta": "Todas las anteriores"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función tiene el abomaso en el rumiante?",
+            "opciones": [
+                "Fermentar el alimento",
+                "Secretar jugo gástrico con pepsina y HCl",
+                "Absorber agua",
+                "Producción de gas metano"
+            ],
+            "respuesta_correcta": "Secretar jugo gástrico con pepsina y HCl"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué parte del sistema digestivo rumiante es similar al de los monogástricos?",
+            "opciones": [
+                "Esófago",
+                "Preestómagos",
+                "Intestinos",
+                "Glándulas salivales"
+            ],
+            "respuesta_correcta": "Intestinos"
+        }
+    ],
+    "8e. SISTEMA DIGESTIVO GLÁNDULAS ANEXAS": [
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué órgano produce y secreta bilis?",
+            "opciones": [
+                "Vesícula biliar",
+                "Hígado",
+                "Páncreas",
+                "Estómago"
+            ],
+            "respuesta_correcta": "Hígado"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Cuál es la función principal de la vesícula biliar?",
+            "opciones": [
+                "Producir bilis",
+                "Reabsorber agua",
+                "Almacenar y concentrar bilis",
+                "Secretar enzimas pancreáticas"
+            ],
+            "respuesta_correcta": "Almacenar y concentrar bilis"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué células se encuentran en los sinusoides hepáticos?",
+            "opciones": [
+                "Células de Kupffer",
+                "Células de Paneth",
+                "Células caliciformes",
+                "Células de Langerhans"
+            ],
+            "respuesta_correcta": "Células de Kupffer"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué ocurre si se obstruye el conducto colédoco?",
+            "opciones": [
+                "Aumenta la producción de insulina",
+                "Se acumula bilis y puede causar ictericia",
+                "Disminuye la secreción de jugo gástrico",
+                "Se inhibe la hematopoyesis"
+            ],
+            "respuesta_correcta": "Se acumula bilis y puede causar ictericia"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructura transporta la bilis desde el hígado hasta el intestino?",
+            "opciones": [
+                "Conducto pancreático",
+                "Conducto biliar común",
+                "Conducto cístico",
+                "Conducto hepático derecho"
+            ],
+            "respuesta_correcta": "Conducto biliar común"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué tipo de glándula es el páncreas?",
+            "opciones": [
+                "Endocrina exclusivamente",
+                "Exocrina exclusivamente",
+                "Mixta: endocrina y exocrina",
+                "Holocrina"
+            ],
+            "respuesta_correcta": "Mixta: endocrina y exocrina"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función tienen las células de los islotes de Langerhans?",
+            "opciones": [
+                "Producción de enzimas digestivas",
+                "Secreción de bilis",
+                "Producción de insulina y glucagón",
+                "Absorción de lípidos"
+            ],
+            "respuesta_correcta": "Producción de insulina y glucagón"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué hormona estimula la secreción de bicarbonato en el páncreas?",
+            "opciones": [
+                "Gastrina",
+                "Secretina",
+                "Somatostatina",
+                "Insulina"
+            ],
+            "respuesta_correcta": "Secretina"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Por qué es importante la bilis en la digestión?",
+            "opciones": [
+                "Contiene enzimas proteolíticas",
+                "Neutraliza el pH gástrico",
+                "Emulsifica grasas facilitando su absorción",
+                "Absorbe nutrientes en el intestino delgado"
+            ],
+            "respuesta_correcta": "Emulsifica grasas facilitando su absorción"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué epitelio reviste la vesícula biliar?",
+            "opciones": [
+                "Cúbico simple",
+                "Plano estratificado",
+                "Cilíndrico simple con microvellosidades",
+                "Cilíndrico pseudoestratificado"
+            ],
+            "respuesta_correcta": "Cilíndrico simple con microvellosidades"
+        }
+    ],
+    "Sistema urinario, teoría (VI unidad), 2025": [
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Cuáles son los órganos que conforman el sistema urinario?",
+            "opciones": [
+                "Riñones, uréteres, vejiga y uretra",
+                "Riñones, hígado, vejiga y uréteres",
+                "Uréteres, vejiga, colon y uretra",
+                "Riñones, intestino grueso y vejiga"
+            ],
+            "respuesta_correcta": "Riñones, uréteres, vejiga y uretra"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Cuál es la función endocrina del riñón?",
+            "opciones": [
+                "Filtrar la sangre",
+                "Regular el equilibrio ácido-base",
+                "Secretar renina, eritropoyetina y activar vitamina D",
+                "Reabsorber proteínas"
+            ],
+            "respuesta_correcta": "Secretar renina, eritropoyetina y activar vitamina D"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Cuál es la unidad funcional del riñón?",
+            "opciones": [
+                "Uréter",
+                "Nefrona",
+                "Pelvis renal",
+                "Cápsula de Bowman"
+            ],
+            "respuesta_correcta": "Nefrona"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructuras forman la nefrona?",
+            "opciones": [
+                "Corpúsculo renal, túbulo proximal, asa de Henle y túbulo distal",
+                "Cápsula de Bowman y uréter",
+                "Glomérulo y uretra",
+                "Túbulo colector y uretra"
+            ],
+            "respuesta_correcta": "Corpúsculo renal, túbulo proximal, asa de Henle y túbulo distal"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué ocurre en el túbulo contorneado proximal?",
+            "opciones": [
+                "Se filtra el plasma sanguíneo",
+                "Se secreta renina",
+                "Se reabsorbe la mayor parte de glucosa y sodio",
+                "Se produce orina concentrada"
+            ],
+            "respuesta_correcta": "Se reabsorbe la mayor parte de glucosa y sodio"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué epitelio reviste los uréteres y la vejiga?",
+            "opciones": [
+                "Cilíndrico simple",
+                "Transicional",
+                "Cúbico estratificado",
+                "Plano queratinizado"
+            ],
+            "respuesta_correcta": "Transicional"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Por qué la vejiga puede cambiar de forma al llenarse?",
+            "opciones": [
+                "Porque tiene tejido muscular esquelético",
+                "Por el tipo de músculo liso longitudinal",
+                "Por su epitelio transicional elástico",
+                "Por el peristaltismo del uréter"
+            ],
+            "respuesta_correcta": "Por su epitelio transicional elástico"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué porcentaje del gasto cardíaco pasa por los riñones?",
+            "opciones": [
+                "10%",
+                "15%",
+                "20-25%",
+                "30%"
+            ],
+            "respuesta_correcta": "20-25%"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función tiene la cápsula de Bowman?",
+            "opciones": [
+                "Absorber sodio",
+                "Recolectar el ultrafiltrado del plasma",
+                "Conducir orina hacia el uréter",
+                "Producir eritropoyetina"
+            ],
+            "respuesta_correcta": "Recolectar el ultrafiltrado del plasma"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué tipo de células forman parte del glomérulo renal?",
+            "opciones": [
+                "Células caliciformes y endoteliales",
+                "Podocitos, endoteliales y mesangiales",
+                "Células de Paneth y de Merkel",
+                "Melanocitos y células de Langerhans"
+            ],
+            "respuesta_correcta": "Podocitos, endoteliales y mesangiales"
+        }
+    ],
+    "TEGUMENTO-CASCOS, GARRAS, ANEXOS DUROS": [
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructura está compuesta por pared, suela y ranilla?",
+            "opciones": [
+                "Pezuña",
+                "Garra",
+                "Casco",
+                "Pico"
+            ],
+            "respuesta_correcta": "Casco"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función cumple la ranilla en el casco del caballo?",
+            "opciones": [
+                "Proteger el bulbo del pelo",
+                "Servir de almohadilla y permitir expansión",
+                "Generar queratina dura",
+                "Lubricar la superficie plantar"
+            ],
+            "respuesta_correcta": "Servir de almohadilla y permitir expansión"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué glándula se encuentra en la base de la cola de las aves?",
+            "opciones": [
+                "Glándula carpiana",
+                "Glándula mentoniana",
+                "Glándula uropigial",
+                "Glándula supracaudal"
+            ],
+            "respuesta_correcta": "Glándula uropigial"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Por qué la queratina de las garras no se descama como la de la piel?",
+            "opciones": [
+                "Porque tiene alto contenido de colágeno",
+                "Por su estructura ósea interna",
+                "Porque es queratina dura rica en azufre",
+                "Por el alto contenido de melanina"
+            ],
+            "respuesta_correcta": "Porque es queratina dura rica en azufre"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué células están presentes en la matriz de las garras?",
+            "opciones": [
+                "Células de Kupffer y caliciformes",
+                "Células madre, Merkel y Langerhans",
+                "Osteoclastos y condrocitos",
+                "Podocitos y células epiteliales"
+            ],
+            "respuesta_correcta": "Células madre, Merkel y Langerhans"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué tipo de glándula es la glándula mentoniana del cerdo?",
+            "opciones": [
+                "Sebácea",
+                "Apocrina",
+                "Holocrina",
+                "Mixta"
+            ],
+            "respuesta_correcta": "Apocrina"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función cumple la glándula uropigial en aves?",
+            "opciones": [
+                "Regular la temperatura corporal",
+                "Lubricar y proteger las plumas",
+                "Generar queratina dura para las garras",
+                "Secretar feromonas sexuales"
+            ],
+            "respuesta_correcta": "Lubricar y proteger las plumas"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructura es homóloga a la ranilla del casco en la pezuña?",
+            "opciones": [
+                "Bulbo",
+                "Lámina interna",
+                "Coronilla",
+                "Corteza"
+            ],
+            "respuesta_correcta": "Bulbo"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué tipo de glándula produce sebo mediante secreción holocrina?",
+            "opciones": [
+                "Sudorípara merócrina",
+                "Apocrina",
+                "Sebácea",
+                "Mamaria"
+            ],
+            "respuesta_correcta": "Sebácea"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función cumple la almohadilla digital?",
+            "opciones": [
+                "Almacenar grasa para el metabolismo",
+                "Proteger estructuras óseas y absorber impactos",
+                "Producir queratina blanda",
+                "Permitir la transpiración"
+            ],
+            "respuesta_correcta": "Proteger estructuras óseas y absorber impactos"
+        }
+    ],
+    "TEGUMENTO-PIEL Y FOLÍCULO PILOSO": [
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Cuál es la capa más superficial de la epidermis?",
+            "opciones": [
+                "Estrato basal",
+                "Estrato granuloso",
+                "Estrato córneo",
+                "Estrato espinoso"
+            ],
+            "respuesta_correcta": "Estrato córneo"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Cuál es la función principal de los queratinocitos?",
+            "opciones": [
+                "Producir melanina",
+                "Actuar como sensores de presión",
+                "Formar una barrera protectora",
+                "Regular la temperatura"
+            ],
+            "respuesta_correcta": "Formar una barrera protectora"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué células de la epidermis tienen función inmunológica?",
+            "opciones": [
+                "Melanocitos",
+                "Queratinocitos",
+                "Langerhans",
+                "Merkel"
+            ],
+            "respuesta_correcta": "Langerhans"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué capa de la dermis contiene fibras de colágeno gruesas y elásticas?",
+            "opciones": [
+                "Dermis papilar",
+                "Hipodermis",
+                "Epidermis",
+                "Dermis reticular"
+            ],
+            "respuesta_correcta": "Dermis reticular"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué ocurre en la fase anágena del ciclo del pelo?",
+            "opciones": [
+                "El folículo se reabsorbe",
+                "El pelo se cae",
+                "El pelo entra en reposo",
+                "Se produce crecimiento activo"
+            ],
+            "respuesta_correcta": "Se produce crecimiento activo"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué tipo de queratina forma la corteza del pelo?",
+            "opciones": [
+                "Queratina blanda",
+                "Queratina intermedia",
+                "Queratina dura",
+                "Queratina córnea"
+            ],
+            "respuesta_correcta": "Queratina dura"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Cuál es la función de la glándula uropigial en aves?",
+            "opciones": [
+                "Generar color en las plumas",
+                "Lubricar las plumas",
+                "Secretar enzimas digestivas",
+                "Regular la temperatura corporal"
+            ],
+            "respuesta_correcta": "Lubricar las plumas"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué nombre recibe el músculo que eriza el pelo?",
+            "opciones": [
+                "Músculo folicular",
+                "Músculo del folículo piloso",
+                "Músculo erector del pelo",
+                "Músculo paniculoso"
+            ],
+            "respuesta_correcta": "Músculo erector del pelo"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Por qué la hipodermis actúa como reserva energética?",
+            "opciones": [
+                "Por su alto contenido de melanina",
+                "Por su rica inervación",
+                "Por su composición de tejido adiposo",
+                "Por su capacidad de absorción de agua"
+            ],
+            "respuesta_correcta": "Por su composición de tejido adiposo"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructuras sensoriales detectan presión profunda y vibración?",
+            "opciones": [
+                "Corpúsculos de Meissner",
+                "Corpúsculos de Pacini",
+                "Corpúsculos de Ruffini",
+                "Terminaciones libres"
+            ],
+            "respuesta_correcta": "Corpúsculos de Pacini"
+        }
+    ],
+    "V unidad, sistema digestivo embriología, 2025": [
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿De qué capa germinativa se origina el epitelio del tubo digestivo?",
+            "opciones": [
+                "Ectodermo",
+                "Mesodermo",
+                "Endodermo",
+                "Mesénquima"
+            ],
+            "respuesta_correcta": "Endodermo"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructuras derivan del intestino faríngeo?",
+            "opciones": [
+                "Esófago y estómago",
+                "Amígdalas, timo, tiroides y paratiroides",
+                "Yeyuno, íleon y colon",
+                "Hígado, páncreas y vesícula biliar"
+            ],
+            "respuesta_correcta": "Amígdalas, timo, tiroides y paratiroides"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Por qué es importante el cuerpo último branquial?",
+            "opciones": [
+                "Forma las cuerdas vocales",
+                "Forma parte del colon transverso",
+                "Contribuye con células parafoliculares de la tiroides",
+                "Se transforma en conducto auditivo"
+            ],
+            "respuesta_correcta": "Contribuye con células parafoliculares de la tiroides"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué porción del intestino origina el estómago?",
+            "opciones": [
+                "Intestino medio",
+                "Intestino posterior",
+                "Intestino anterior",
+                "Intestino faríngeo"
+            ],
+            "respuesta_correcta": "Intestino anterior"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué órgano se forma a partir del divertículo hepático?",
+            "opciones": [
+                "Estómago",
+                "Colon",
+                "Hígado",
+                "Esófago"
+            ],
+            "respuesta_correcta": "Hígado"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué evento permite la formación del páncreas como órgano único?",
+            "opciones": [
+                "Desarrollo del intestino posterior",
+                "Rotación del intestino medio",
+                "Fusión de los esbozos dorsal y ventral",
+                "Fusión del conducto hepático y colédoco"
+            ],
+            "respuesta_correcta": "Fusión de los esbozos dorsal y ventral"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué estructura embrionaria conecta el intestino medio con el saco vitelino?",
+            "opciones": [
+                "Cuerpo último branquial",
+                "Conducto auditivo",
+                "Conducto onfalomesentérico (pedículo vitelino)",
+                "Cloaca"
+            ],
+            "respuesta_correcta": "Conducto onfalomesentérico (pedículo vitelino)"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función tiene el hígado fetal durante el desarrollo?",
+            "opciones": [
+                "Secreción de insulina",
+                "Hematopoyesis",
+                "Almacenamiento de bilis",
+                "Digestión enzimática"
+            ],
+            "respuesta_correcta": "Hematopoyesis"
+        },
+        {
+            "tipo": "Memoria factual",
+            "pregunta": "¿Qué origina el intestino posterior?",
+            "opciones": [
+                "Duodeno y colon ascendente",
+                "Colon transverso distal, recto y parte del conducto anal",
+                "Ciego, colon y estómago",
+                "Esófago, tráquea y bronquios"
+            ],
+            "respuesta_correcta": "Colon transverso distal, recto y parte del conducto anal"
+        },
+        {
+            "tipo": "Comprensión",
+            "pregunta": "¿Qué función tiene la membrana cloacal durante el desarrollo?",
+            "opciones": [
+                "Unir el mesodermo y ectodermo en la línea media",
+                "Separar temporalmente las salidas del sistema digestivo y urinario",
+                "Conectar el intestino medio con el hígado",
+                "Originar las papilas gustativas"
+            ],
+            "respuesta_correcta": "Separar temporalmente las salidas del sistema digestivo y urinario"
+        }
+    ]
+}
