@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: "/cuestionario-veterinaria/", 
+  base: "/cuest-vet/", 
   plugins: [react()],
   json: {
     namedExports: true,
