@@ -13,4 +13,4 @@ npm install
 npm run dev
 ```
 
-¡Hecho con ❤️ y TailwindCSS!
+ [Pagina Web](https://peterargueta.github.io/cuest-vet/)
